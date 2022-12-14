@@ -1,0 +1,27 @@
+id: IF2E5FA18
+default_language: en
+source: ''
+initial_creation_type: tmx
+imported: 2022-12-14 18:06:24.113784+00:00
+last_modified: 2022-12-14 18:06:24.113790+00:00
+source_metadata:
+  creationtool: 84000-translation-memory
+  creationtoolversion: 1.0.0.0
+  datatype: PlainText
+  segtype: phrase
+  adminlang: en
+  srclang: bo
+  o-tmf: TEI
+  creationdate: '2018-07-30T07:33:27.522Z'
+  eft-text-id: UT22084-090-002
+  xmlns-eft: http://read.84000.co/ns/1.0
+  title: Toh_558-Destroyer_of_the_Great_Trichiliocosm-v1
+bases:
+  0810:
+    source_metadata: null
+    order: 1
+    base_file: 0810.txt
+    statistics: null
+copyright:
+  status: Unknown
+  notice: ''
